@@ -1,2 +1,4 @@
-# Write-Up 1
-### Friday 24th of January, 2025
+# **Lab 1a and b, Tools, HTML, and CSS**
+## *Jackson Dubreuil*
+### *Friday 24th of January, 2025*
+
