@@ -8,7 +8,7 @@ In this lab, I have managed to complete code that was efficient enought to desig
 
 This is one of three files that I used to code out this website. With the inclusion of this CSS file, I also used an HTML file and a JS (Javascript) file in order to proplery order and serve this website.  Within the Javascript file was some very base level code that allowed for the website to be recognized and propely set as a website.  In the HTML file, the coding language of HTML was used in order to set up the base look and structure of the website.  The CSS file used here was actually only used to stylize what the website would look like.
 
-![This is my Website.](/Lab-1ab-Write_up/website_writeup.png "Website")
+![This is my Website.](/website_writeup.png "Website")
 
 On this screenshot, it is seen that the website is up and running, and it is visually different from the base level website we initally started with.  At the beginning, there was a very blank page with black and white text and boxes, and now it can be seen that it has been changed to a nice aquamarine color palet.  Along with that, the CSS and HTML combine nicely to create working check-off buttons and sort buttons.  With this, there is also a section to 'Create Task', which prompts the user to insert a task and give it a due date as well.
 
